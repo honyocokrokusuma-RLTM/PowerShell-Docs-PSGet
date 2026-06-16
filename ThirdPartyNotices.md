@@ -1,4 +1,5 @@
-## Legal Notices
+[~]honyo cokro kusumo cv @github.com. copyrigth  legalitas licensi Microsoft
+ on 21 [1] HTTPS://CREATIVECOMMONS.ORG/LICENSEES/BY/4.0/LEGALCODE# Legal Notices
 
 Microsoft and any contributors grant you a license to the Microsoft documentation and other content
 in this repository under the [Creative Commons Attribution 4.0 International Public License][01],
